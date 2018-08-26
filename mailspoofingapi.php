@@ -1,12 +1,14 @@
 <?php
 
+$apikey = "mailspoofingapi";
+
 $spoof = $_GET['spoof'];
 $target = $_GET['target'];
 $title = $_GET['title'];
 $body = $_GET['body'];
 $key = $_GET['key'];
 
-if($key != "mailspoofingapi"){
+if($key != $apikey){
 	echo "Invalid key.";
 }else{
 
