@@ -7,5 +7,5 @@ http://ip.of.the.server//mailspoofingapi.php?spoof=spoodef@mail.io&target=victim
 You can change the variable $apikey in the php file to edit &key=mailspoofingapi in the url. Use it as a password for using the script.
 
 ## By
-[@xFr33z3](https://github.com/xFr33z3)
+[@xFr33z3](https://github.com/xFr33z3) <br>
 [@zSh0ckino](https://github.com/zSh0ckino)
