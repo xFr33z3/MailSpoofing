@@ -1,6 +1,6 @@
 ## MailSpoofing
 
-Upload mailspoofapi.php to your server and connect with this link
+Upload mailspoofapi.php to your server and connect using this link
 
 http://ip.of.the.server//mailspoofingapi.php?spoof=spoodef@mail.io&target=victim@email.io&title=testing&body=email_content&key=mailspoofingapi
 
